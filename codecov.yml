@@ -1,0 +1,8 @@
+ignore:
+  - "examples"
+  - "internal"
+  - "llm"
+  - "storage"
+
+
+# hobby-session-34
