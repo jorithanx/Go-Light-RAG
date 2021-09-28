@@ -129,3 +129,5 @@ func (c Chromem) VectorUpsertRelationship(source, target, content string) error 
 
 	return c.RelationshipsColl.AddDocument(ctx, doc)
 }
+
+// hobby-session-4
