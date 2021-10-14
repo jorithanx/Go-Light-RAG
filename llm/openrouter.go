@@ -173,3 +173,5 @@ func (o OpenRouter) doRequest(ctx context.Context, messages []openRouterMessage)
 // hobby-session-98
 
 // hobby-session-105
+
+// hobby-session-6
