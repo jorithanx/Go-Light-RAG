@@ -325,3 +325,5 @@ func TestInsert(t *testing.T) {
 		}
 	})
 }
+
+// hobby-session-7
