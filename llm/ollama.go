@@ -115,3 +115,5 @@ func (o Ollama) chatRequest(messages []api.Message) api.ChatRequest {
 // hobby-session-10
 
 // hobby-session-27
+
+// hobby-session-12
