@@ -9,3 +9,5 @@ openai_model: "gpt-4o-mini"
 
 # Logging Configuration
 log_level: "info"  # Options: debug, info, warn, error
+
+# hobby-session-15
