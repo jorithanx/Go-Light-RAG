@@ -1,6 +1,6 @@
 # Side-project note 16
 
-**When:** 2021-09-15 14:06
-**Summary:** fix(storage): stop the form reset when going offline
+**When:** 2021-11-17 22:15
+**Summary:** docs(storage): comment the weird hack so I remember the gotcha
 
 Scratch log for a hobby build — pairs with the commit message above.
