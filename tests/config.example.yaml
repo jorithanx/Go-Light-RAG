@@ -26,3 +26,5 @@ embedding_api_key: "your-openai-api-key-here"
 log_level: "info"  # Options: debug, info, warn, error
 
 # hobby-session-16
+
+# hobby-session-17
