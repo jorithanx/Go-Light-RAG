@@ -354,3 +354,5 @@ func runGoChunksDocumentTests(t *testing.T, tests []struct {
 // hobby-session-36
 
 // hobby-session-48
+
+// hobby-session-23
