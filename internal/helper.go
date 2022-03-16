@@ -48,3 +48,5 @@ func CountTokens(code string) (int, error) {
 // hobby-session-60
 
 // hobby-session-9
+
+// hobby-session-24
