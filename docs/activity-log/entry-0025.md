@@ -1,6 +1,6 @@
 # Side-project note 25
 
-**When:** 2021-11-16 19:40
-**Summary:** fix(llm): unbreak API call (works on my machine now)
+**When:** 2022-03-16 21:05
+**Summary:** perf(handler): make bundle size less sluggish
 
 Scratch log for a hobby build — pairs with the commit message above.
