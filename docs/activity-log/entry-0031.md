@@ -1,6 +1,6 @@
 # Side-project note 31
 
-**When:** 2021-12-09 07:39
-**Summary:** feat(storage): try a different layout after random curiosity
+**When:** 2022-03-29 22:44
+**Summary:** feat(tests): try local-first storage after a tutorial
 
 Scratch log for a hobby build — pairs with the commit message above.
