@@ -1,6 +1,6 @@
 # Side-project note 32
 
-**When:** 2021-12-09 14:59
-**Summary:** refactor(storage): simplify the data layer — easier to show a friend
+**When:** 2022-04-06 21:56
+**Summary:** chore(internal): bump deps / refresh lockfile
 
 Scratch log for a hobby build — pairs with the commit message above.
