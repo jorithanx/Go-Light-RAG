@@ -378,3 +378,5 @@ func createSemanticResponse(sections []struct {
 // hobby-session-73
 
 // hobby-session-84
+
+// hobby-session-40
