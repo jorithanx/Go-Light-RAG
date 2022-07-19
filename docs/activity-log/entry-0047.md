@@ -1,6 +1,6 @@
 # Side-project note 47
 
-**When:** 2022-02-28 13:34
-**Summary:** feat(handler): try a new dependency after random curiosity
+**When:** 2022-07-18 22:47
+**Summary:** docs(storage): jot down things to revisit
 
 Scratch log for a hobby build — pairs with the commit message above.
