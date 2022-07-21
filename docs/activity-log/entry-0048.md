@@ -1,6 +1,6 @@
 # Side-project note 48
 
-**When:** 2022-02-28 20:34
-**Summary:** refactor(tests): simplify state handling — easier to show a friend
+**When:** 2022-07-20 19:15
+**Summary:** feat(llm): sketch a prototype screen for personal dashboard
 
 Scratch log for a hobby build — pairs with the commit message above.
