@@ -1,6 +1,6 @@
 # Side-project note 50
 
-**When:** 2022-03-04 08:18
-**Summary:** chore(handler): format + small tidy
+**When:** 2022-07-29 12:09
+**Summary:** chore(llm): housekeeping: rename folder
 
 Scratch log for a hobby build — pairs with the commit message above.
