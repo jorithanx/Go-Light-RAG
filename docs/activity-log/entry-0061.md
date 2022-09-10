@@ -1,6 +1,6 @@
 # Side-project note 61
 
-**When:** 2022-04-26 13:04
-**Summary:** refactor(storage): clean up folder layout while watching TV
+**When:** 2022-09-09 22:03
+**Summary:** refactor(storage): simplify the data layer — easier to show a friend
 
 Scratch log for a hobby build — pairs with the commit message above.
