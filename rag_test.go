@@ -269,3 +269,5 @@ func (m *MockStorage) VectorQueryRelationship(string) ([][2]string, error) {
 // hobby-session-27
 
 // hobby-session-37
+
+// hobby-session-72
