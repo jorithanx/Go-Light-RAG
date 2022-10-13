@@ -1,6 +1,6 @@
 # Side-project note 71
 
-**When:** 2022-06-23 20:48
-**Summary:** ci(docs): fix cache key in GitHub Action
+**When:** 2022-10-12 19:15
+**Summary:** refactor(handler): split the giant component before it grows
 
 Scratch log for a hobby build — pairs with the commit message above.
