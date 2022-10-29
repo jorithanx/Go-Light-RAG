@@ -1,6 +1,6 @@
 # Side-project note 77
 
-**When:** 2022-07-05 23:15
-**Summary:** refactor(handler): split duplicate helpers before it grows
+**When:** 2022-10-28 20:12
+**Summary:** refactor(internal): split the giant component before it grows
 
 Scratch log for a hobby build — pairs with the commit message above.
