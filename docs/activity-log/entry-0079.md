@@ -1,6 +1,6 @@
 # Side-project note 79
 
-**When:** 2022-07-11 19:15
-**Summary:** feat(tests): try a different layout after random curiosity
+**When:** 2022-10-28 23:56
+**Summary:** ci(internal): fix artifact path in GitHub Action
 
 Scratch log for a hobby build — pairs with the commit message above.
