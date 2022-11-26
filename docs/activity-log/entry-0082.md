@@ -1,6 +1,6 @@
 # Side-project note 82
 
-**When:** 2022-08-01 19:07
-**Summary:** fix(llm): stop stale data showing when resizing the window
+**When:** 2022-11-25 19:16
+**Summary:** docs(llm): jot down ideas backlog
 
 Scratch log for a hobby build — pairs with the commit message above.
