@@ -104,3 +104,5 @@ func (o OpenAI) chatRequest(messages []goopenai.ChatCompletionMessage) goopenai.
 // hobby-session-44
 
 // hobby-session-46
+
+// hobby-session-93
