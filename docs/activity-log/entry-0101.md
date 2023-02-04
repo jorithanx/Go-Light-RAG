@@ -1,6 +1,6 @@
 # Side-project note 101
 
-**When:** 2023-01-26 12:42
-**Summary:** test(storage): add a quick test for the parser
+**When:** 2023-02-03 21:53
+**Summary:** test(tests): lock in one regression before I ship something dumb
 
 Scratch log for a hobby build — pairs with the commit message above.
